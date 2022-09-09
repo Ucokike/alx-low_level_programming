@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
  *
  * * main - Printing is the reason for this programme
@@ -21,5 +19,4 @@ int main(void)
 			puzzle");
 
 	return (0);
-
 }
