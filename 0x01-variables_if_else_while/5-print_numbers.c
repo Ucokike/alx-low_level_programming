@@ -2,11 +2,11 @@
 
 /**
  *
- * * main -This program prints the numbers from 0 to 9
+ * main -This program prints the numbers from 0 to 9
  *
- * *
  *
- * * Return: Always (Success)
+ *
+ * Return: Always (Successful)
  *
  */
 
