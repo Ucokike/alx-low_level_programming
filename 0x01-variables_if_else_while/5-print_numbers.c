@@ -1,19 +1,20 @@
 #include <stdio.h>
 
 /**
-*
-** main -this program prints the numbers 0 to 9
-*
-**
-*
-* Return: Always (Successful)
-*
-*/
+ *
+ * * main -This program prints the numbers from 0 to 9
+ *
+ * *
+ *
+ * * Return: Always (Success)
+ *
+ * */
 
 int main(void)
 
 {
 	char n;
+	
 	for (n = '0'; n <= '9'; n++)
 	{
 		putchar(n);
