@@ -8,7 +8,6 @@
 * Return: Always (Successful)
 *
 */
-
 int main(void)
 {
 	char n;
