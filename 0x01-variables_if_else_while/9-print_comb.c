@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - Prints a series of numbers with commas
-* Return: Always (Success);
+* main -this program prints a series of numbers with commas
+* Return: Always (Successful);
 */
 int main(void)
 {
