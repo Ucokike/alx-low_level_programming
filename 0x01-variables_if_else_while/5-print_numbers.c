@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
 *
 ** main -this program prints the numbers 0 to 9
@@ -8,6 +9,7 @@
 * Return: Always (Successful)
 *
 */
+
 int main(void)
 
 {
