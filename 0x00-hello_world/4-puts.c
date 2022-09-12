@@ -1,14 +1,8 @@
 #include <stdio.h>
-
 /**
- *
- * * main - Printing is the reason for this programme
- *
- * *
- *
- * * Return: it would Always return 0 (Successful)
- *
- * */
+* main - Printing is the reason for this programme
+* Return: it would Always return 0 (Successful)
+*/
 
 int main(void)
 
