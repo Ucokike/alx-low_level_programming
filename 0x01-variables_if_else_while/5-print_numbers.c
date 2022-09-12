@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *
-** main - Prints the numbers 0 to 9
+** main -this program prints the numbers 0 to 9
 *
 **
 *
@@ -9,6 +9,7 @@
 *
 */
 int main(void)
+
 {
 	char n;
 	for (n = '0'; n <= '9'; n++)
