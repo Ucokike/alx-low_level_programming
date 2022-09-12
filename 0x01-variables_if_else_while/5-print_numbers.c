@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- *
- ** main - Prints the numbers 0 to 9
- *
- **
- *
- ** Return: Always (Success)
- *
- */
+*
+** main - Prints the numbers 0 to 9
+*
+**
+*
+* Return: Always (Successful)
+*
+*/
 
 int main(void)
 {
@@ -19,3 +19,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
