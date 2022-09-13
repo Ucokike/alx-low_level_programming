@@ -1,14 +1,8 @@
 #include <stdio.h>
-
 /**
- *
- * * main -thhis program Prints the sizeof many var types
- *
- * *
- *
- * * Return:it should Always 0 (Successful)
- *
- * */
+* main -thhis program Prints the sizeof many var types
+* Return:it should Always 0 (Successful)
+*/
 
 int main(void)
 
