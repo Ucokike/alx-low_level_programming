@@ -1,2 +1,1 @@
-#!/bin/bash
-this is a read me
+thus program writes a code 
