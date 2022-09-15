@@ -1,8 +1,10 @@
 #include<stdio.h>
+
 /**
  * main - this program causes an infinite loop
  * Return: 0 (success)
  */
+
 int main(void)
 {
 	int i;
