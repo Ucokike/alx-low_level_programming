@@ -1,9 +1,13 @@
 #include "main.h"
+
 /**
- * main- this program prints positive or negative integer
- * return: 0 (success)
+ * main - prints positive or negative integer
+ * Return: 0
+ *
  */
+
 int main(void)
+
 {
 	int i;
 
