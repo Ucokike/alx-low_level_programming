@@ -9,7 +9,7 @@
 
 void rev_string(char *s)
 {
-	char epe:
+	char epe;
 
 		int i, len, len 1;
 
