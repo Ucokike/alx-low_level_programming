@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * this program swaps two variables
+ * this program swaps the value of two variables a and b
  */
 
 void swap_int(int *a, int *b)
