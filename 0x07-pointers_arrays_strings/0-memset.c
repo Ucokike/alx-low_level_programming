@@ -6,7 +6,7 @@
  *@n: umber of bytes to be used
  * Return: returns a pointer to the memory area s
  */
-char *_memset(char *s, char b, unsignes int n)
+char *_memset(char *s, char b, unsigned int n)
 {
 	while (n)
 	{
