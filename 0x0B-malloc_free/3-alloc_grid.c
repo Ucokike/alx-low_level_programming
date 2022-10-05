@@ -1,14 +1,15 @@
 #include "main.h"
 
 /**
- * alloc_grid - allocates a grid, makes space and free space\
- * @width: takes in the width of grid
+ * alloc_grid - allocates a grid, makes space and free space
+ * @width: takes in width of grid
  * @height: height of grid
  * Return: grid with free spaces
  */
 
 int **alloc_grid(int width, int height)
 {
+/* declaring variables */
 	int **grid;
 	int i, j;
 
