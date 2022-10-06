@@ -72,7 +72,7 @@ char **strtow(char *str)
 
 	for (w = 0; w < words; w++)
 	{
-		while ((str[index]) = ' ')
+		while str[index] = ' '
 			index++;
 
 		letters = (word_len(str + index));
