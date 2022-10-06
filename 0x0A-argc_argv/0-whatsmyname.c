@@ -3,7 +3,7 @@
 /**
  * main - prints the program name, followed by the new line
  * @argc: the number of arguements supplied to the program
- * @argv: an array of pointers to the arguments.
+ * @argv: arguments
  * Return: always 0
  */
 
