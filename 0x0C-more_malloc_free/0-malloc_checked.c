@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * malloc_checked - allocates memory using malloc.<F11>
+ * malloc_checked - allocates memory using malloc.
  * @b: size of the memory to be allocated.
  * Return: pointer to the allocated memory.
  */
