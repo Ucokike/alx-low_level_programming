@@ -10,6 +10,7 @@ dog_t *new_dog(char *name, float age, char *owner);
  * @str: The string to be measured.
  * Return: The length of the string.
  */
+
 int _strlen(char *str)
 {
 	int len = 0;
@@ -32,8 +33,8 @@ char *_strcopy(char *dest, char *src)
 
 	for (index = 0; src[index]; index++)
 		dest[index] = src[index];
-		dest[index] = '\0';
-		return (dest);
+	dest[index] = '\0';
+	return (dest);
 }
 /**
  * new_dog - Creates a new dog.
@@ -67,5 +68,6 @@ dog_t *new_dog(char *name, float age, char *owner)
 	doggo->name = _strcopy(doggo->name, name);
 	doggo->age = age;
 	doggo->owner = _strcopy(doggo->owner, owner);
+
 		return (doggo);
 }
