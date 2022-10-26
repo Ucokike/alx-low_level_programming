@@ -37,7 +37,7 @@ int main(void)
 	size_t n;
 
 	head = &hello;
-	new = malloc(sizeof(lisint_t));
+	new = malloc(sizeof(listint_t));
 	if (new == NULL)
 	{
 		printf("Error\n");
